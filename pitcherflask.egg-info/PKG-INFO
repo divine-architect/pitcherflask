@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: pitcherflask
+Version: 0.0.6
+Summary: Build a basic flask project without wasting time on setup.
+Home-page: http://github.com/divine-architect/pitcherflask
+Author: divine-architect
+Author-email: solarhatesbeing@gmail.com
+License: MIT
+Keywords: flask web api
+Classifier: Development Status :: 1 - Planning
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+
 # pitcherflask
 
 pitcherflask is a tool that helps you set up a basic Flask project structure quickly and easily. Inspired by Rust's Cargo, pitcherflask aims to streamline the process of creating Flask web applications by providing a simple command-line interface (CLI).

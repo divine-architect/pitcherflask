@@ -8,7 +8,7 @@ setup(
     name = "pitcherflask",
     version = "0.0.6",
     author = "divine-architect",
-    author_email = "solarhatesbeing@gmail.com",
+    author_email = "admin@divine-architect.xyz",
     description = ("Build a flask projects without wasting time on setup."),
     license = "MIT",
     keywords = "flask web api",
